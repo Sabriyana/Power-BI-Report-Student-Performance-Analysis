@@ -1,6 +1,6 @@
 # Power BI Report – Student Performance Analysis
 
-## 📊 Report Overview
+## Report Overview
 This Power BI **report** explores student test scores, tutoring hours, and extracurricular activities.  
 It provides insights into Math and Reading performance across different **states, districts, and student groups**.  
 
@@ -8,7 +8,7 @@ The report is designed to help educators and policymakers identify performance t
 
 ---
 
-## ⚙️ Data Model
+##  Data Model
 The data model connects **Test Scores** with **Students** using `StudentID`.  
 
 <img width="941" height="701" alt="image" src="https://github.com/user-attachments/assets/43578f2e-6f8e-4b1e-8fd5-60a8f8a5a172" />
@@ -40,6 +40,3 @@ The data model connects **Test Scores** with **Students** using `StudentID`.
 - **Hawthorn Valley Unified** has the highest average reading score.  
 - Students in **Debate** score highest in Math.  
 - Most states improved in Reading Scores (2022–2024).  
-
-   ```bash
-   git clone https://github.com/your-username/PowerBI-Student-Performance-Report.git
